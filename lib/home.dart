@@ -54,7 +54,7 @@ class MyhomeUI extends State<Myhome> {
                   },
                 ),
                 const SizedBox(
-                  height: 50,
+                  height: 120,
                   width: 30,
                 ),
                 FloatingActionButton(
@@ -68,7 +68,7 @@ class MyhomeUI extends State<Myhome> {
                   },
                 ),
                 const SizedBox(
-                  height: 50,
+                  height: 120,
                   width: 0,
                 ),
               ],
